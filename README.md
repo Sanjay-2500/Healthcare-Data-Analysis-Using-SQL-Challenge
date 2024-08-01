@@ -28,3 +28,5 @@ Specific Patient Queries:
 Retrieve all columns for specific patients by patient_id.
 Retrieve all columns from admissions where the patient was admitted and discharged on the same day.
 Show patient IDs and their total number of admissions.
+
+The file includes basic SQL operations such as SELECT, UPDATE, JOIN, COUNT, and uses conditions like WHERE, LIKE, BETWEEN, and IN to filter and manipulate the data.
